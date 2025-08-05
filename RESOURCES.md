@@ -1,7 +1,5 @@
 # Useful resources  
 
-Here are some helpful resources I used while making this course. I’m sharing them with you in case they help. Enjoy!  
-
 ## Videos  
 
 - [Deep Dive into LLMs like ChatGPT (Theory)](https://www.youtube.com/watch?v=7xTGNNLPyMI&t=7652s)  
